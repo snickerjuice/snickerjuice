@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandra Vardhan</h1>
 <h3 align="center">Backend Engineer | Crafting Robust and Efficient Server-Side Solutions</h3>
 
-- 🔭 I’m currently working on **Interactive Musical Keyboard using Mido**
+- 🔭 I’m currently working on [Interactive Musical Keyboard using Mido](IdlyPakoda/MIDI-Interactive-Musical)
 
 - 🌱 I’m currently learning **Raspberry Pi**
 
